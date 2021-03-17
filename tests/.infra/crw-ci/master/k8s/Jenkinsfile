@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'rhel7-8gb' }
+    agent { label 'rhel7-16gb' }
 
     options {
         timestamps()
